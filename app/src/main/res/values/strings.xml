@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CryptoTrack</string>
+    <string name="welcome">WELCOME</string>
+    <string name="preference_file_name">com.zimheral.cryptotrack</string>
+    <string name="input_message">Enter a message</string>
+    <string name="btn_start">Start</string>
+    <string name="button_details">More details</string>
+    <string name="img_desc">currency logo</string>
+    <string name="currency_set">currency_set</string>
+    <string name="netError">Network connection no detected!. This application needs a data connection to retrieve the data</string>
+    <string name="btnCurrency">Add Currency</string>
+    <string name="autoCompletePlaceholder"> Input the name of a CryptoCurrency</string>
+
+</resources>
